@@ -1,0 +1,18 @@
+TITULO: Sopa de Tomate
+PORCOES: 4
+TEMPO: 35 min
+TAGS: sopa, vegetariano, conforto
+INGREDIENTES:
+- 8 tomates maduros
+- 1 cebola grande
+- 2 dentes de alho
+- 3 colheres de sopa de azeite
+- 500 ml de caldo de legumes
+- Sal e pimenta a gosto
+- Manjericao fresco para decorar
+PASSOS:
+- Aqueca o azeite numa panela e refogue a cebola e o alho ate ficarem translucidos
+- Junte os tomates cortados em pedacos e cozinhe por 5 minutos
+- Adicione o caldo de legumes e deixe cozinhar em lume brando por 20 minutos
+- Triture tudo com a varinha magica ate obter um creme homogeneo
+- Tempere com sal e pimenta e sirva decorado com manjericao fresco

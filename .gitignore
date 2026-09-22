@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+
+# Ambientes virtuais
+.venv/
+venv/
+
+# Dados gerados e locais -- nao vao para o repositorio publico:
+# a base de dados e as receitas extraidas de reels de terceiros sao
+# conteudo pessoal/de teste, nao codigo do projeto. O exemplo usado no
+# TUTORIAL.md (sopa-de-tomate) fica como excecao.
+recipes/receitas.db
+recipes/output/*
+recipes/images/*
+recipes/raw/*
+!recipes/output/.gitkeep
+!recipes/images/.gitkeep
+!recipes/raw/sopa-de-tomate.txt
+
+# pasta propria de idiomas do Tesseract (ver TUTORIAL.md secao 1)
+tessdata/

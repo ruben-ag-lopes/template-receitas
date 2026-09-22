@@ -1,0 +1,15 @@
+jinja2>=3.1
+weasyprint>=61
+pytest>=8
+
+# extracao de receitas a partir de um link (interface web)
+flask>=3.0
+yt-dlp>=2024.1
+
+# opcional: leitura do texto que aparece no video (fotografia do prato incluida)
+# precisa tambem do ffmpeg e do motor Tesseract instalados no sistema
+pytesseract>=0.3
+pillow>=10
+numpy>=1.26
+
+# a traducao usa a API gratuita do MyMemory via urllib -- sem dependencias novas
